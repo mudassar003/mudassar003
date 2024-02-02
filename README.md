@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mudassar003
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Mudassar Rehman
+- 👀 I’m interested in Machine Learning and Artificial Intelligence
+- 🌱 I’m currently learning Web 3.0 and metaverse development
+- 💞️ I’m looking to collaborate on python based projects
+- 📫 How to reach me dev@amzosoft.com
 
 <!---
 mudassar003/mudassar003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
